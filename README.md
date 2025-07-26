@@ -1,17 +1,16 @@
-# Arc - AI Digital Products Marketplace
+# <img src="https://via.placeholder.com/40" alt="Logo"> Arc - AI Digital Marketplace  
 
-![Project Banner](https://via.placeholder.com/1200x400) <!-- تصویر شاخص پروژه -->
+## 📌 Introduction  
+A scalable e-commerce platform for AI/ML digital products (templates, plugins, models).  
 
-پلتفرم فروش محصولات دیجیتال مبتنی بر هوش مصنوعی
+## ✨ Key Features  
+- 🛒 Multi-vendor support  
+- 🤖 AI model integration  
+- 💳 Online payments (ZarinPal/PayPal)  
 
-## ✨ ویژگی‌ها
-- سیستم فروش چند فروشنده
-- پشتیبانی از محصولات دیجیتال (پلاگین، تمپلیت، مدل‌های AI)
-- پرداخت آنلاین یکپارچه
-
-## 🚀 راه‌اندازی
+## 🚀 Quick Start  
 ```bash
-git clone https://github.com/hoseinreyhani/arc.git
-cd arc
-npm install
-npm start
+git clone https://github.com/hoseinreyhani/arc.git  
+cd arc  
+npm install  
+npm start  
